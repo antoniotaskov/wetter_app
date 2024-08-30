@@ -10,7 +10,7 @@ class WeatherScreen extends StatefulWidget {
 }
 
 class WeatherScreenState extends State<WeatherScreen> {
-  final String apiKey = '6df01e1b132e4e4f3f0fc5062c0d44e1';
+  final String apiKey = 'privat';
   String cityName = "Bretten";
   double temperature = 0.0;
   String weatherDescription = "";
